@@ -15,10 +15,6 @@ SudokuMaster Pro is a full-featured Sudoku desktop app where the **board is the 
 
 This project was built as a standalone application — independent of any prior Sudoku implementation — with an emphasis on clean modular architecture suitable for technical review.
 
-## Screenshots
-
-> Add your own screenshots to the `screenshots/` folder and reference them here, e.g.:
-> `![Dark Mode](screenshots/dark_mode.png)`
 
 ## Key Features
 
@@ -70,8 +66,6 @@ SudokuMasterPro/
 ├── history_manager.py       # Searchable history window (Toplevel UI)
 ├── theme_manager.py          # Dark/Light palette definitions & switching
 ├── save_manager.py           # Save / Load / Export (JSON file I/O)
-│
-├── assets/                 # Icons / static assets
 ├── screenshots/            # App screenshots for documentation
 ├── exports/                 # Exported puzzles land here
 ├── saves/                    # Saved games land here
