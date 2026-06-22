@@ -125,6 +125,13 @@ python main.py
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
-## Author
+## 👤 Author
 
-Built by **Yoga Prabu** as a portfolio-grade desktop application project.
+**Yoga Prabu E**
+
+<p>GitHub: https://github.com/yoga-prabu2</p>
+<p>LinkedIn: https://www.linkedin.com/in/yogaprabue07/</p>
+
+
+Built as part of **Software Development Internship — Task 04**
+
